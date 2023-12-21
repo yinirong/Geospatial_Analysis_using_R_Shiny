@@ -8,4 +8,4 @@ The metrics used in the dashboard are as follows
 
 The dashboard illustrates an unprecedented shift in travel patterns, highlighting a staggering 50% plunge in airport traffic while major cities grappling with surging confirmed COVID-19 cases. We can also witness a turning point in August 2023 as vaccine availability drived a resurgence in airport activity and a decline in fatality rates.
 
-[![Video Thumbnail](https://i9.ytimg.com/vi_webp/wvma4qf8htI/mq2.webp?sqp=COj4kqwG-oaymwEmCMACELQB8quKqQMa8AEB-AHsBoAC0AWKAgwIABABGE8gYyhlMA8=&rs=AOn4CLBwlaHe94GPGvq93Ttg6fEcDRhwBg)](https://www.youtube.com/watch?v=wvma4qf8htI)
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW03a29wcGpuMWUxMnh4aHk5bno4b2FyaGpoNTZrNXpuaGczMmdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/afQlXQh4t3L7aRH04d/giphy.gif)
